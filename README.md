@@ -7,7 +7,7 @@
   </a>
 </div>
 
-Sou desenvolvedor Web, amo jogos, e conclui minha formação em sistemas para internet 2022.
+Sou desenvolvedor Web, amo jogos, e conclui minha formação em sistemas para internet em 2022.
 
 - ❤ Estudante
 - 💙 Fã de programação 
